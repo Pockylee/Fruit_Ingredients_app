@@ -1,1 +1,2 @@
 # Fruit_Ingredients_app
+This project(iPhone application) uses the concept of turicreate convolutional neural network to make image recognition of fruit, trains 80% of the images, and tests the accuracy of the remaining 20%, and then connects the training model to the mobile APP, and receives the uploaded image from the user. After taking the photo, immediately identify the result and look up the table to find out the corresponding nutritional value data, which is displayed on the APP user interface to provide real-time information query.
